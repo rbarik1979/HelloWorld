@@ -1,0 +1,12 @@
+ Volume in drive D is Data
+ Volume Serial Number is 2C1F-F939
+
+ Directory of D:\Users\Default User\Desktop\Weekly Delivery Call\2018\Training\DevOps\Jenkins\JavaProject1
+
+06/02/2018  10:29 PM    <DIR>          .
+06/02/2018  10:29 PM    <DIR>          ..
+06/02/2018  10:29 PM                 0 aa.txt
+06/02/2018  10:08 PM               900 Hello.class
+06/02/2018  08:30 PM               148 Hello.java
+               3 File(s)          1,048 bytes
+               2 Dir(s)  23,086,198,784 bytes free
